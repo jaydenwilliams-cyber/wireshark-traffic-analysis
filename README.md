@@ -42,6 +42,8 @@ I captured network traffic using Wireshark and exported the data to a CSV file. 
 - Most common protocols  
 - Frequently used ports  
 
+Identified repeated connections to a single IP and analyzed potential scanning behavior.
+
 This automated approach reduces manual analysis time and helps identify patterns that may require further investigation.
 
 ## Key Findings
